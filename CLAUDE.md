@@ -1,3 +1,3 @@
-# Root Project Guidelines
+# Project Guidelines
 
-This is a standard TypeScript project. Follow normal coding conventions.
+Standard TypeScript project. Follow conventional coding practices.
